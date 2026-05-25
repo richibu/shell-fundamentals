@@ -15,3 +15,4 @@ A simple interactive To-Do List Manager built with Bash scripting.
 ```bash
 chmod +x todo.sh
 ./todo.sh
+
